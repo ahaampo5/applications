@@ -1,0 +1,5 @@
+fastapi[strandard]==0.115.12
+python-dotenv
+
+# API
+langchain-openai==0.3.23
